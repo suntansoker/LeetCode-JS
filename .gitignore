@@ -1,2 +1,4 @@
+.DS_Store
+
 #Steps to deploy to github
-/git.sh
+git.sh
